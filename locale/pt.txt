@@ -3,8 +3,8 @@
 ## Action
 
 ### URL
-LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = http://www.facebook.com/atacadaodoscolchoesreal
-LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = http://www.facebook.com/atacadaodoscolchoesreal
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = http://www.facebook.com/bigcasacolchoes
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = http://www.facebook.com/bigcasacolchoes
 LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=%2B5548999823617
 LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=%2B5548999823617
 LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=%2B5548999823617
@@ -89,4 +89,4 @@ IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
 tour.description = Faça um Tour Virtual e Conheça Nossa Loja
 
 ### Title
-tour.name = Atacadão dos Estofados e Colchões
+tour.name = Big Casa Colchões
